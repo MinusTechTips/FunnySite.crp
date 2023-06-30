@@ -1,0 +1,30 @@
+
+@font-face {
+	font-family: nasalizationregular;
+	src: url("font.ttf");
+	font-weight: normal;
+	font-style: normal;
+}
+
+a:link {
+	font-family: 'nasalizationregular', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+a:visited {
+	font-family: 'nasalizationregular', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+h1 {
+	font-family: 'nasalizationregular', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+  	font-size: 25px;
+}
+p {
+	font-family: 'nasalizationregular', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+  	font-size: 15px;
+}
